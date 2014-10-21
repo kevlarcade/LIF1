@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher une ligne d'une taille donnée avec des espaces entre les extrémités
+ */
 int main(void)
 {
     int nb, i;

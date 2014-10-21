@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Calculatrice avec addition, soustraction, multiplication, division avec reste
+ */
 int main(void)
 {
     float nb1, nb2;
@@ -12,19 +15,19 @@ int main(void)
     cin >> nb2;
     switch ( op ){
         case '+' :
-        cout << nb1 << " + " << nb2 << " = " << nb1+nb2;
+        cout << nb1 << " + " << nb2 << " = " << nb1+nb2 << endl;
         break ;
         case '-' :
-        cout << nb1 << " - " << nb2 << " = " << nb1-nb2;
+        cout << nb1 << " - " << nb2 << " = " << nb1-nb2 << endl;
         break ;
         case '*' :
-        cout << nb1 << " * " << nb2 << " = " << nb1*nb2;
+        cout << nb1 << " * " << nb2 << " = " << nb1*nb2 << endl;
         break ;
         case '/' :
         if (nb2 == 0) {
         cout << "operation impossible" << endl;
         }
-        cout << nb1 << " / " << nb2 << " = " << nb1/nb2;
+        cout << nb1 << " / " << nb2 << " = " << nb1/nb2 << " il reste " << nb1%nb2 << endl;
         break ;
         default :
         cout << "operateur invalide" << endl;

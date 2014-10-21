@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Comparaison de 2 nombres et dire si c'est plus petit ou plus grand
+ */
 int main(void)
 {
     float a, b;

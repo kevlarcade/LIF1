@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher une ligne d'une longueur donné
+ */
 int main(void)
 {
     int nb, i;

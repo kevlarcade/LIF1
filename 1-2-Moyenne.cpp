@@ -1,5 +1,10 @@
 #include <iostream>
 using namespace std;
+
+/*
+ *	Faire la moyenne de 2 notes
+ */
+
 int main(void)
 {
     float note1, note2, note3, moyenne;

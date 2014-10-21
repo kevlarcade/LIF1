@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Saisis d'une valeur bornée
+ */
 int main(void)
 {
     float nb;

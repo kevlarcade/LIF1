@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher une ligne d'une taille donnée en alternant étoile et espace
+ */
 int main(void)
 {
     int nb, i;

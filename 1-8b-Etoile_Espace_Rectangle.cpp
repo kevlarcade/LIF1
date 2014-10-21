@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher le contour d'un rectangle d'une taille donnée
+ */
 int main(void)
 {
     int l, h, i, j;

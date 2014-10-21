@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher un triangle d'une taille donnée
+ */
 int main(void)
 {
     int l, i, j;

@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+ *	Afficher un damier
+ */
 int main(void)
 {
     int l, h, i, j;

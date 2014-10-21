@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 using namespace std;
+/*
+ *	Afficher un damier avec un caractère 
+ */
 int main(void)
 {
     int l, h, i, j;
