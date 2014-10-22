@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/*
+ *	Saisis d'une valeur comprise entre une borne
+ *	Calculer la somme des carré et le carré de la somme
+ *
+*/
 
 int compris_entre(int a, int b)
 {

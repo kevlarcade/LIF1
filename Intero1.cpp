@@ -2,17 +2,19 @@
 using namespace std;
 
 /*
-    Suite de syracuse
-    Un+1 = Un/2 si pair
-    Un+1 = (3Un+1)/2 si impaire
-
-    U0 = 5
-    U1 = 8
-    U2 = 4
-    U3 = 2
-    U4 = 1
-    U5 = 2
-*/
+ * 
+ *	Suite de syracuse
+ *	Un+1 = Un/2 si pair
+ *	Un+1 = (3Un+1)/2 si impaire
+ *
+ *	U0 = 5
+ *	U1 = 8
+ *	U2 = 4
+ *	U3 = 2
+ *	U4 = 1
+ *	U5 = 2
+ *
+ */
 
 int main(void)
 {
