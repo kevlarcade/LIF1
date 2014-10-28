@@ -3,14 +3,14 @@
 ##TP 1
 
 Utilisez vos notes de TD afin de rédiger les programmes suivants :
-- [x] Écrire un programme permettant de calculer la moyenne de 3 valeurs réelles
-- [x] Écrire un programme permettant d’afficher de la plus petite de deux valeurs
-- [x] Traduire en langage C l’exercice 4 du TD1. Programmer une calculatrice proposant les opérations classiques
-- [x] Saisie d’une valeur entre deux bornes
-- [x] Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
+- [X] Écrire un programme permettant de calculer la moyenne de 3 valeurs réelles
+- [X] Écrire un programme permettant d’afficher de la plus petite de deux valeurs
+- [X] Traduire en langage C l’exercice 4 du TD1. Programmer une calculatrice proposant les opérations classiques
+- [X] Saisie d’une valeur entre deux bornes
+- [X] Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
 
 7. Premiers pas, premières étoiles
-- [x] a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
+- [X] a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
 Combien d’étoiles voulez-vous afficher ? 5
 Résultat :
 `*****`
@@ -19,27 +19,27 @@ b. Écrivez un programme permettant d’afficher un rectangle de N * M étoiles 
 demandés à l’utilisateur.
 Quelles sont les dimensions du rectangle : longueur ? 4 largeur ? 3
 Résultat :
-`****
-****
-****`
+`****`
+`****`
+`****`
 
 c. Écrivez un programme permettant d’afficher un triangle de hauteur N ; N étant demandé à
 l’utilisateur et représentant à la fois le nombre maximum d’étoiles sur la dernière ligne et le
 nombre de lignes.
 Quelle est la hauteur du triangle ? 4
 Résultat :
-`*
-**
-***
-****`
+`*   `
+`**  `
+`*** `
+`****`
 
 d. et maintenant le même triangle à l’envers !!!
 Quelle est la hauteur du triangle ? 4
 Résultat :
-`****
-***
-**
-*`
+`****`
+`*** `
+`**  `
+`*   `
 Si vous n’avez pas fini cette partie obligatoire du TP pendant la séance,
 terminez-le seul !!!
 
@@ -57,10 +57,10 @@ Longueur du rectangle ?
 Largeur du rectangle ? 
 4
 Résultat :
-`******
-*    *
-*    *
-******`
+`******`
+`*    *`
+`*    *`
+`******`
 
 c. Écrivez un programme qui affiche une ligne de longueur n en alternant les espaces et les
 étoiles.
@@ -73,44 +73,44 @@ d. En réutilisant ce que vous avez fait, écrivez un programme qui affiche un d
 MxN.
 Taille du damier N ? 4 M ? 6
 Résultat :
-`* * *
- * * *
-* * *
- * * *`
+`* * * `
+` * * *`
+`* * * `
+` * * *`
 
 e. Faites en sorte que l'utilisateur puisse afficher un damier en choisissant non seulement sa
 taille mais aussi le caractère utilisé.
 Quel est la caractère souhaité ? o
 taille du damier N ? 4 M ? 6
 Résultat :
-`o o o
- o o o
-o o o
- o o o`
+`o o o `
+` o o o`
+`o o o `
+` o o o`
 
 f. Essayez d'écrire des programmes permettant d'afficher les figures suivantes...
-`*
-**
-***
-****
-*****
-****
-***
-**
-*`
+`*    `
+`**   `
+`***  `
+`**** `
+`*****`
+`**** `
+`***  `
+`**   `
+`*    `
 
-`   *
-  ***
- *****
-*******
- *****
-  ***
-   *`
+`   *   `
+`  ***  `
+` ***** `
+`*******`
+` ***** `
+`  ***  `
+`   *   `
 
-`    *
-    *
-    *
-*********
-    *
-    *
-    *`
+`    *    `
+`    *    `
+`    *    `
+`*********`
+`    *    `
+`    *    `
+`    *    `
