@@ -3,14 +3,14 @@
 ##TP 1
 
 Utilisez vos notes de TD afin de rédiger les programmes suivants :
-- [X] Écrire un programme permettant de calculer la moyenne de 3 valeurs réelles
-- [X] Écrire un programme permettant d’afficher de la plus petite de deux valeurs
-- [X] Traduire en langage C l’exercice 4 du TD1. Programmer une calculatrice proposant les opérations classiques
-- [X] Saisie d’une valeur entre deux bornes
-- [X] Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
+- Écrire un programme permettant de calculer la moyenne de 3 valeurs réelles
+- Écrire un programme permettant d’afficher de la plus petite de deux valeurs
+- Traduire en langage C l’exercice 4 du TD1. Programmer une calculatrice proposant les opérations classiques
+- Saisie d’une valeur entre deux bornes
+- Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
 
 7. Premiers pas, premières étoiles
-- [X] a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
+a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
 Combien d’étoiles voulez-vous afficher ? 5
 Résultat :
 `*****`
@@ -89,6 +89,7 @@ Résultat :
 ` o o o`
 
 f. Essayez d'écrire des programmes permettant d'afficher les figures suivantes...
+```
 `*    `
 `**   `
 `***  `
@@ -98,7 +99,8 @@ f. Essayez d'écrire des programmes permettant d'afficher les figures suivantes.
 `***  `
 `**   `
 `*    `
-
+```
+```
 `   *   `
 `  ***  `
 ` ***** `
@@ -106,7 +108,8 @@ f. Essayez d'écrire des programmes permettant d'afficher les figures suivantes.
 ` ***** `
 `  ***  `
 `   *   `
-
+```
+```
 `    *    `
 `    *    `
 `    *    `
@@ -114,3 +117,4 @@ f. Essayez d'écrire des programmes permettant d'afficher les figures suivantes.
 `    *    `
 `    *    `
 `    *    `
+```
