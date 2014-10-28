@@ -5,17 +5,11 @@
 Utilisez vos notes de TD afin de rédiger les programmes suivants :
 
 1. Faire un Hello World !
-
 2. Écrire un programme permettant de calculer la moyenne de 3 valeurs réelles
-
 3. Écrire un programme permettant d’afficher de la plus petite de deux valeurs
-
 4. Traduire en langage C l’exercice 4 du TD1. Programmer une calculatrice proposant les opérations classiques
-
 5. Saisie d’une valeur entre deux bornes
-
 6. Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
-
 7. Premiers pas, premières étoiles
 a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
 
@@ -42,7 +36,7 @@ Résultat :
 ****
 ```
 
-	c. Écrivez un programme permettant d’afficher un triangle de hauteur N ; N étant demandé à
+c. Écrivez un programme permettant d’afficher un triangle de hauteur N ; N étant demandé à
 l’utilisateur et représentant à la fois le nombre maximum d’étoiles sur la dernière ligne et le
 nombre de lignes.
 
