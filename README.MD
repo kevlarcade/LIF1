@@ -17,7 +17,6 @@ Utilisez vos notes de TD afin de rédiger les programmes suivants :
 6. Écrire un programme permettant d’afficher les tables de multiplication pour tous les entiers de 1 à 10.
 
 7. Premiers pas, premières étoiles
-
 a. Écrivez un programme permettant d’afficher N étoiles sur une ligne ; N étant demandé à l’utilisateur.
 
 Combien d’étoiles voulez-vous afficher ? 5
@@ -43,7 +42,7 @@ Résultat :
 ****
 ```
 
-c. Écrivez un programme permettant d’afficher un triangle de hauteur N ; N étant demandé à
+	c. Écrivez un programme permettant d’afficher un triangle de hauteur N ; N étant demandé à
 l’utilisateur et représentant à la fois le nombre maximum d’étoiles sur la dernière ligne et le
 nombre de lignes.
 
